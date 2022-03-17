@@ -1,8 +1,8 @@
-# HW2 - COPM 329: NLP
+# [HW3 - COPM 329: NLP]((https://github.com/mhyatt000/comp329)
 
 Matt Hyatt   
 
-March 17
+March 17, 2022
 
 ## Procedure
 
