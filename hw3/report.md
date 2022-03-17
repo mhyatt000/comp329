@@ -1,4 +1,4 @@
-# [HW3 - COPM 329: NLP](https://github.com/mhyatt000/comp329)
+# [HW3 - COMP 329: NLP](https://github.com/mhyatt000/comp329)
 
 Matt Hyatt   
 
