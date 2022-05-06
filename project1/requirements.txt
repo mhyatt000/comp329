@@ -1,2 +1,4 @@
 transformers
-pytorch
+torch
+Pillow
+requests
