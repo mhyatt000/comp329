@@ -18,6 +18,18 @@ import matplotlib.pyplot as plt
 '''TODO
 
 1. define model
+
+CPTR
+initialized on ViT transformer
+
+encoder
+    384 × 384 while maintaining the patch size equals to 16
+
+decoder
+    4 layers, 768 dimensions
+
+
+
 2. get data from coco
 3. make loss functions and predictions
 
